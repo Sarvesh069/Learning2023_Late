@@ -6,3 +6,13 @@ Uploading my daily problem solving to maintain consistency.
 * Added HTML Learning from LoveBabbar YT
 * Updated README   
 * Array Problems - Added
+
+# Date 06-08-2023 Sunday
+*  Array Problems - Added 
+*  Added Searching and Sorting Folder 
+*  Added Searching and Sorting problems 
+#### Commit 1 made
+
+# Date 06-08-2023 Sunday
+* Array Problems - Added few more
+* Added Searching and Sorting Problems - Few more
