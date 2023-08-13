@@ -16,3 +16,7 @@ Uploading my daily problem solving to maintain consistency.
 # Date 06-08-2023 Sunday
 * Array Problems - Added few more
 * Added Searching and Sorting Problems - Few more
+
+# Date 13-08-2023    Sunday
+* Added Stacks Folder
+* Solving stacks
