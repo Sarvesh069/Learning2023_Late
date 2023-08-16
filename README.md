@@ -20,3 +20,6 @@ Uploading my daily problem solving to maintain consistency.
 # Date 13-08-2023    Sunday
 * Added Stacks Folder
 * Solving stacks
+
+# Date 16-08-2023   Wednesday
+* Solving stacks
