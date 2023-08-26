@@ -23,3 +23,9 @@ Uploading my daily problem solving to maintain consistency.
 
 # Date 16-08-2023   Wednesday
 * Solving stacks
+
+
+# Date 26-08-2023 Saturday
+Long Break 
+* Added 50 Projects folder
+* Added Day 1 Project "Exploring Cards"
