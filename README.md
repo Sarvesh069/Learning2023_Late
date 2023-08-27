@@ -29,3 +29,6 @@ Uploading my daily problem solving to maintain consistency.
 Long Break 
 * Added 50 Projects folder
 * Added Day 1 Project "Exploring Cards"
+
+# Date 27-08-2023 Sunday
+* Added Day 2 Project " Progress Steps"
