@@ -32,3 +32,8 @@ Long Break
 
 # Date 27-08-2023 Sunday
 * Added Day 2 Project " Progress Steps"
+
+# Date 28-08-2023 Monday
+* Added Queues Folder in 450
+* Queue Implementation
+*Added Day 3 Project "Rotating Navigation"
