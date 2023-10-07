@@ -36,4 +36,7 @@ Long Break
 # Date 28-08-2023 Monday
 * Added Queues Folder in 450
 * Queue Implementation
-*Added Day 3 Project "Rotating Navigation"
+* Added Day 3 Project "Rotating Navigation"
+
+# Date 07-10-2023 Saturday
+* Solved The celebrity Problem
